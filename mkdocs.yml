@@ -1,4 +1,5 @@
 site_name: Vidispine BMS Documentation
+site_url: https://cris-casacop.github.io/spaceapp-docs/
 theme:
   name: material
   palette:
