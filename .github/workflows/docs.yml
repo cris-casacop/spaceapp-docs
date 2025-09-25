@@ -1,7 +1,5 @@
 name: Check, Build & Deploy Docs
 
-site_url: https://cris-casacop.github.io/spaceapp-docs/
-
 on:
   push:
     branches: [ "main" ]
