@@ -1,7 +1,7 @@
 # Welcome to the Vidispine Broadcast Management System (BMS) Documentation
 
-* [AdStore](http://127.0.0.1:8000/AdStore_Documentation/)
-* [AdOpt](http://127.0.0.1:8000/AdOpt_Documentation/)
+* [AdStore](https://cris-casacop.github.io/spaceapp-docs/AdStore)
+* [AdOpt](https://cris-casacop.github.io/spaceapp-docs/AdOpt)
 * Avatega
 * ConfigPortal
 * AdTraffic
