@@ -1,0 +1,6 @@
+site_name: Vidispine BMS Documentation
+theme:
+  name: material
+  palette:
+    primary: deep-orange # or 'red'
+    accent: orange
